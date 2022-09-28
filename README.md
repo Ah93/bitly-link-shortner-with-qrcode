@@ -9,7 +9,7 @@
 
 ## About Laravel
 
-this project is about generating shorten link and qrcode in a single request using Laravel 8. It is very simple and effective service to use.
+this project is about generating shorten link and qrcode in a single request using Laravel 8. I used Bitly API to shorten links and Jquery Qrcode library for generating a qrcode for the shorten link. It is very simple and effective service to use.
 
 ##Snippets
 
